@@ -1,4 +1,3 @@
-﻿public class Repos
+﻿internal class Repos
 {
-    public string full_name { get; set; }
 }
